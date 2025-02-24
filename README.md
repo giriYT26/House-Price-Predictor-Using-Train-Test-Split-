@@ -10,7 +10,7 @@ This project is a simple **House Price Predictor** using **Linear Regression**. 
 - Visualizes the **Actual vs. Predicted** house prices using Matplotlib.
 
 ## Installation
-Ensure you have **Python 3.x** installed along with the required libraries:
+Ensure you have **Python 3.10** installed along with the required libraries:
 ```sh
 pip install pandas numpy matplotlib scikit-learn
 ```
@@ -35,13 +35,13 @@ python house_price_predictor.py
 5. **Visualization:**
    - A scatter plot comparing **actual vs. predicted** prices.
 
-## Sample Output
+## Output of the program
 ```
 Trained Data: (8,3)
 Tested Data: (3,3)
-The Mean Absolute Error is: 0.0
-The Mean Squared Error is: 0.0
-The Root Mean Squared Error: 0.0
+The Mean Absolute Error is: 1.9402553637822468e-11
+The Mean Squared Error is: 1.1293772630057337e-21
+The Root Mean Squared Error: 3.3606208697288864e-11
 ```
 (A perfect prediction may appear in this example due to the simplicity of the dataset.)
 
@@ -50,7 +50,7 @@ The script generates a **scatter plot** comparing the actual and predicted house
 
 ## License
 This project is open-source and free to use.
-
+giridharan.s
 ---
 Developed using **Python, scikit-learn, pandas, numpy, and Matplotlib**.
 
