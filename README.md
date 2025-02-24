@@ -50,7 +50,7 @@ The script generates a **scatter plot** comparing the actual and predicted house
 
 ## License
 This project is open-source and free to use.
-giridharan.s
+and Done by S Giridharan
 ---
 Developed using **Python, scikit-learn, pandas, numpy, and Matplotlib**.
 
